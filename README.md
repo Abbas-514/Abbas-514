@@ -99,6 +99,6 @@ I'm particularly interested in opportunities involving **Applied AI, Machine Lea
 ### 📫 Connect With Me
 
 - **GitHub:** [@Abbas-514](https://github.com/Abbas-514)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [ma6063581@gmail.com](mailto:ma6063581@gmail.com)
 
 *Building intelligent systems, one project at a time.*
